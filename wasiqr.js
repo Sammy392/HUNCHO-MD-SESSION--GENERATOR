@@ -67,12 +67,12 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❶ || 𝐶𝑟𝑒𝑎𝑡𝑜𝑟 = ENZO TECH
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vap3LMf2ZjChWb6lLh3x
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
 Wanna talk to me?https://wa.me/254743982206?
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*ENZO TECH*
+©*HUNCHO TECH*
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
