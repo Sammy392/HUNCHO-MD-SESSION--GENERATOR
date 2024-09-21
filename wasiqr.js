@@ -60,19 +60,19 @@ router.get('/', async (req, res) => {
 	
 				   let TREX_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃𝚃𝚛𝚎𝚡 𝚖𝚍
+┃HUNCHO MD
 ┃𝑆𝑢𝑐𝑐𝑒𝑠𝑓𝑢𝑙𝑙𝑦
 ┃𝐶𝑜𝑛𝑛𝑒𝑐𝑡𝑒𝑑
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || 𝐶𝑟𝑒𝑎𝑡𝑜𝑟 = 𝙱𝙴𝚁𝙰_𝚃𝙴𝙲𝙷
+❶ || 𝐶𝑟𝑒𝑎𝑡𝑜𝑟 = ENZO TECH
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
 Wanna talk to me?https://wa.me/254743982206?
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*𝙱𝙴𝚁𝙰_𝚃𝙴𝙲𝙷 *
+©*ENZO TECH*
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
