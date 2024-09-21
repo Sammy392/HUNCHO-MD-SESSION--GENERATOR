@@ -65,12 +65,12 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❶ || 𝐶𝑟𝑒𝑎𝑡𝑜𝑟 = HUNCHO TECH
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || YouTube Channel = https://Instagram.com/@_BERA_TECH?si=3cp6Y2r__cXZg-Wi
+❷ ||  Instagram = https://Instagram.com/@_BERA_TECH?si=3cp6Y2r__cXZg-Wi
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Please Follow My Support Channel https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q
+Please Follow My Support Channel https://whatsapp.com/channel/0029Vap3LMf2ZjChWb6lLh3x
 Wanna talk? https://wa.me/254743982206?
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*ENZO 𝐴 𝑃𝑟𝑜 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟*
+©*HUNCHO*
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
